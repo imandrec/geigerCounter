@@ -2,6 +2,7 @@ import time
 import board
 import analogio
 
+
 analog_in = analogio.AnalogIn(board.A1)
 
 reference_voltage = 5 # voltage supplied must be 5V
