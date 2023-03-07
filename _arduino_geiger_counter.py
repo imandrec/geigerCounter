@@ -1,3 +1,5 @@
+//INT to D2
+
 const int geigerInputPin = 2; // Set the input pin of the geiger counter
 int count = 0; // Initialize the count variable
 float conversionFactor = 0.0082; // Conversion factor to calculate radiation in µSv/h
